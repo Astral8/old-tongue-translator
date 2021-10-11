@@ -1,0 +1,12 @@
+<html>
+<textarea id="textcontent" placeholder="Type Text..." rows="12" cols="50"></textarea>
+<div style="width: 380px;" id="showtext"></div>
+</html>
+
+
+<script>
+var textcontent = document.getElementById('textcontent');
+  textcontent.onkeyup = textcontent.onkeypress = function(){
+      document.getElementById('showtext').innerHTML = this.value;
+  }
+</script>
