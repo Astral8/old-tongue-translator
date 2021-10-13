@@ -1,4 +1,4 @@
-import old_tongue_dict as ot_dict
+import a_old_tongue_dict as ot_dict
 
 if __name__ == '__main__':
     sentence = input("Enter Your Text\n")
