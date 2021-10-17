@@ -23,7 +23,7 @@ ball = Word("ball", "dhub", "noun")
 b_dictionary[ball.__str__()] = ball
 
 band = Word("band", "samid", "verb")
-band.alt_ot_word("shen", "noun")
+band.add_alt_ot_word("shen", "noun")
 b_dictionary[band.__str__()] = band
 
 brotherhood = Word("brotherhood", "shen", "noun")
@@ -319,3 +319,8 @@ b_dictionary[by.__str__()] = by
 def check_b_dict(word):
     if word in b_dictionary:
         return b_dictionary.get(word)
+    else:
+        for words in b_dictionary:
+            if word == words + "s":
+                a_word = b_dictionary.get(words)
+                return a_word.ot_word
