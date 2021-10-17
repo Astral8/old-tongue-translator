@@ -169,4 +169,3 @@ def check_a_dict(word):
             if word == words + "s":
                 a_word = a_dictionary.get(words)
                 return a_word.ot_word
-        return print("Not in Dictionary")

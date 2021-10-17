@@ -3,8 +3,8 @@ class Word:
     ot_word: str
     alt_ot_word: str
     type: str
-    type2: str
-    type3: str
+    type2: str = ""
+    type3: str = ""
     definition: str
     synonym: []
     valid_types = {"adjective", "adverb", "relative pronoun", "preposition", "noun", "verb", "conjunction", "pronoun",
@@ -40,7 +40,7 @@ class Word:
 
     def add_alt_ot_word(self, ot_word, type):
         self.alt_ot_word = ot_word
-        if self.type2 is None:
+        if self.type2 == "":
             self.type2 = type
         else:
             self.type3 = type
