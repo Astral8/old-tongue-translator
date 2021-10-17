@@ -1,12 +1,14 @@
 class Word:
     eng_word: str
     ot_word: str
+    alt_ot_word: str
     type: str
     type2: str
     type3: str
     definition: str
     synonym: []
-    valid_types = {"adjective", "adverb", "relative pronoun", "preposition", "noun", "verb", "conjunction", "pronoun"}
+    valid_types = {"adjective", "adverb", "relative pronoun", "preposition", "noun", "verb", "conjunction", "pronoun",
+                   "possessive"}
 
     def __init__(self, word, ot_word, type, definition="Not Defined", synonym=[]):
         self.word = word
@@ -35,6 +37,13 @@ class Word:
             self.type3 = type3
         else:
             return "This is not a valid type"
+
+    def add_alt_ot_word(self, ot_word, type):
+        self.alt_ot_word = ot_word
+        if self.type2 is None:
+            self.type2 = type
+        else:
+            self.type3 = type
 
     def check_valid(self, unknown_type):
         if unknown_type not in self.valid_types:
