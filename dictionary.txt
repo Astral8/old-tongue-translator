@@ -1,0 +1,1360 @@
+a (adj.) - o
+able (adj.) - folyt
+about (adv. & prep.) - tiel
+account (n.) - norvenne
+acid (n.) - ghar
+across (prep.) - gaen
+act (v.) - bunok
+addition (n.) - einto
+adjustment (n.) - faerstin
+after (adv., prep. & conj.) - widon
+again (adv.) - nye
+against (prep.) - bat
+agony (n.) - dha
+agreement (n.) - o-vin
+air (n.) - raia
+all (n.) - aes
+all-powerful, the (n.) - ghraem
+almost (adv.) - sast
+always (adv.) - hei
+am (v.) - misain (insistent; emphatic)
+am no(t) (v. neg.) - isainde (insistent; emphatic)
+among (prep.) - tom
+amount (n.) - abakran
+amusement (n.) - seel
+and (conj.) - e
+angle (n.) - lato
+angry (adj.) - cavastu
+anguish (n.) - dha
+animal (n.) - ubunto
+annihilation (n.) - bhan
+anniversary marriage celebration (Saldaean) (n.) - shanna-har
+another (adj.) - sovya
+answer (n.) - conagh
+ant (n.) - pizar
+anxiety (n.) - cuande (stress-induced condition experienced as chest pains)
+any (pron., adj. & adv.) - shak
+any other (adj.) - sovya
+apparatus (n.) - jobei
+apple (n.) - melimo
+approval (n.) - modan
+arch (n.) - onadh
+argument (n.) - zheshi
+arm (n.) - bazam
+army (n.) - dumki
+arrow (n.) - vasen
+arrow of time (n.) - vasen-cierto
+art (n.) - beatha
+as (adv.) - sene
+ask (v.) - devor
+asked, what was (rel. pron.) - devoriska
+at (prep.) - thaz
+attack (n.) - baijan
+attempt (n. & v.) - gomaen
+attention (n.) - sahlan
+attraction (n.) - amotath
+aunt (n.) - shaendi
+authority (n.) - rahtsi
+automatic (adj.) - n-baid
+awake (adj.) - aagret
+baby (n.) - bopo
+back (n., adj. & adv.) - rakh
+bad (adj.) - begoud
+bag (n.) - sich
+balance (n.) - rieht
+ball (n.) - dhub
+band (v.) - samid
+band/brotherhood/group (n.) - shen
+Band of the Red Hand (n.) - Shen an Calhar
+banner, small (n.) - con
+bar/barrier (n.) - vadin
+base (n.) - nupar (as in bottom or support)
+basin (n.) - dal
+basket (n.) - vhool
+bath (n.) - badan
+battle (n., v. & adj.) - dai; gai (n.)
+battle (n., v. & adj.) - dai; gai (n.)
+battle, key (n.) - gai-don (one that will decide the war)
+battle blood (n.) - daishar (meaning, glory)
+battle, brother to/of (n.) - gaidin (Aes Sedai word for Warders)
+Battle Lord (n.) - Dai Shan (title for Lan)
+battle person (n.) - algai
+battle-related (adj.) - dhai
+battle, those sworn to peace in (n.) - gai-shain (Aiel term)
+beautiful (adj.) - n-am
+beauty, female ideal of (n.) - boan
+beauty, male ideal of (n.) - botay
+because (conj.) - po
+bed (n.) - desu
+bee (n.) - souk
+beet (n.) - birok
+before (conj., prep. & adj.) - ailen
+behavior (n.) - soovri
+beldam (n.) - drova
+beldam (possessive) - drovja
+belief (n.) - astai
+bell (n.) - kloye
+belonging to (prep.) - d (implied ownership or inferior position)
+beloved (adj.) - lan
+bent (adj.) - slagh
+berry (n.) - rimbai
+betray (v.) - ishar
+betrayal (n.) - ishavid
+betrayer (n.) - isham
+betrayer of hope (n.) - ishamael (name of a Forsaken)
+between (adv. & prep.) - scrup
+bird (n.) - kriko
+birth (n.) - syndon
+bit (past tense) (v.) - roedane
+bite (v.) - roedna
+bitter (adj.) - chaki
+black (n. & adj.) - doon
+Black Eyes (n.) - Seia Doon (Aiel warrior society)
+Black Wind (n.) - Machin Shin (literally, -journey of destruction-)
+blade (n.) - mandarb (name of Lan-s stallion); manshima
+blade, related to (adj.) - man
+blade, small (n.) - nai (knife-like)
+blinder (n.) - samma
+blood/bloodline (meaning descent or heritage) (n.) - shar (pl. is shari)
+blood/bloodline (meaning descent or heritage) (n.) - shar (pl. is shari)
+blood of battles (n.) - daishar (meaning, glory)
+blow (v.) - khoop
+blue (n. & adj.) - ascar; -era (suffix)
+blue (n. & adj.) - ascar; -era (suffix)
+blue-eye (n.) - seiera (a flower in Baerlon; name of Min-s mare)
+boar-horse (n.) - s-redit (used by Seanchan)
+boar-like animal (n.) - capar (from Aiel Waste)
+board (n.) - kontar
+boat (n.) - nausig
+body (n.) - chinnar
+boiling (adj.) - merwon
+bollocks (interjection) - tsag (obsenity uttered by Sammael)
+bone (n.) - khadi
+book (n.) - blagh
+boot(s) (n.) - poulam
+bottle (n.) - tsatsi
+bowl (n.) - dal
+box(es) (n.) - bah(a)
+boy (n.) - yuntar
+brain (n.) - sysyn
+brake (n. & v.) - tsinas
+branch (n.) - warat
+brass (n.) - farhota
+bread (n.) - bachri
+breath (n.) - chati
+brick (n.) - yedcost
+bridge (n.) - spotsu
+bright (adj.) - sheikar
+bringers of (n.) - sheen
+Bringers of Annihilation (n.) - Bhan-sheen (a Trolloc band)
+broken (adj.) - yugol
+brother (n.) - alantin; din (singular and plural)
+brother (n.) - alantin; din (singular and plural)
+Brothers of the Eagle (n.) - Far Aldazar Din (an Aiel warrior society)
+brother to/of battle (n.) - gaidin (Aes Sedai word for Warders)
+Brotherhood (n.) - Ko-bal (a Trolloc band; literally, circle of one)
+brotherhood/band/group (n.) - shen
+Brotherless, the (n.) - Mera-din (used by Aiel)
+brown (n. & adj.) - deebo
+brush (n.) - jhabal
+Brutes of Venom (n.) - Ghar-ghael (a Trolloc band)
+bucket (n.) - hutsah
+builders (n.) - wansho (Shienaran term for the Ogier)
+building (n.) - bhardo
+building material (n.) - cueran (from Age of Legends)
+bulb (n.) - tumerest
+burn (n. & v.) - jalat
+burst (v.) - doozhi
+business (n.) - pantae
+but (conj.) - no
+butter (n.) - maspil
+button (n.) - sobel
+by (adv. & prep.) - dyu
+cabbage (n.) - soudhov
+cake (n.) - qaato
+call (v.) - aven
+canvas (n.) - azafi
+card (n.) - wuseta
+care (v.) - dinya
+carriage (n.) - yeel
+carry (v.) - soende
+cart (n.) - kuruta
+cat (n.) - miou
+cause (v.) - hadzi
+cavalry (n.) - caba-drin
+certain (adj.) - zialin
+chain (n.) - ketvar
+chalk (n.) - vezo
+chamberlain (male) (n.) - shambayan (Borderlands term)
+chance (n.) - dane; variant is diane
+chance (n.) - dane; variant is diane
+change (v.) - gadou
+chatalaine (female) (n.) - shatayan (Borderlands term)
+cheap (adj.) - yaso
+cheese (n.) - brynza
+chest (n.) - gozai
+chief (n.) - car
+chief of chiefs (n.) - car-a-carn (capitalized when Aiel use the title for Dragon Reborn)
+chiefs (n.) - carn
+chin (n.) - ghazh
+chopsticks (n.) - sursa (used in Tanchico)
+chora tree (n.) - Avendesora; Avendoraldera is an offshoot found outside the Waste
+chora tree (n.) - Avendesora; Avendoraldera is an offshoot found outside the Waste
+Chosen Ones (n.) - Da-concion (Seanchan term)
+circle (n.) - bal
+Circle of One (n.) - Ko-bal (a Trolloc band; meaning, brotherhood)
+civilization (n.) - aes
+claw (n.) - cha
+claw (v.) - chalot
+clean (adj.) - tahni
+clear (adj.) - udiya
+clock (n.) - dali
+cloth (n.) - cadi
+clothes (n.) - cadin
+clothes, working (n.) - cadin-sor (worn by Aiel)
+cloud(s) (n.) - dhakdi
+coal (n.) - borz
+coat (n.) - thorat
+coffee (n.) - kaf (from Seanchan)
+cold (n. & adj.) - zanda
+collar (n.) - potsa
+color (n.) - keymar
+comb (n.) - shodet
+come (do come) (v.) - ca-lyet; lyet
+come (do come) (v.) - ca-lyet; lyet
+comfort (n.) - holubi
+committee (n.) - yabedin
+common (adj.) - yabbeth
+company (n.) - bhadi
+comparison (n.) - ohimat
+competition (n.) - yaanaho
+complete (v.) - zaffi
+complex (adj.) - dae
+complex game (n.) - dae-mar
+concubine (n.) - asa (in Seanchan)
+condition (n.) - shaff
+connection (n.) - wabunen
+conscious (adj.) - bighar
+container (n.) - cour
+control (v.) - mat
+cook (n.) - rennen
+cook (v.) - renni
+copper (n. & adj.) - staba
+copy (n.) - toulat
+cord (n.) - dao
+cork (n.) - fringfran
+corn (n.) - zemai (from Aiel Waste)
+cotton (n. & adj.) - algode (plant fiber from Aiel Waste)
+cough (v.) - anouge
+country (n.) - nyala
+cover (v.) - wapro
+cow (n.) - dudhi
+coward, base or low (n. & adj.) - parano
+crack (v.) - bairnu
+credit (n.) - cheghar
+crime (n.) - daarlot
+cruel (adj.) - vrang
+crush (v.) - maromi
+cry (v.) - gheuth
+cup (n.) - fintan
+current, as in a river (n.) - ahenila
+curtain (n.) - arahar
+curve (v.) - ghal
+cushion (n.) - nahodil
+cut (v.) - nob
+cutter (n.) - nor
+dagger (n.) - gar; nai
+dagger (n.) - gar; nai
+daisy (n.) - mageen
+damage (v.) - yohini
+dance, type of (n.) - tiganza (Tinker dance); sara (Saldaean dance performed by women)
+dance, type of (n.) - tiganza (Tinker dance); sara (Saldaean dance performed by women)
+dancer(s) (n.) - hama (implies stately grace and fluidity)
+dancer from Age of Legends (n.) - daien
+danger (n.) - orobar
+dark (as in pitch-darkness; indication of evil or wrong) (n. & adj.) - shaidar
+dark, very (n. & adj.) - doon
+Dark One (name) (n.) - Shai-tan
+Darkfriend (n.) - Atha-an Shadar (literally, Darkfriend)
+darkness, total (n.) - zamon
+daughter (n.) - la
+daughter of the night (n.) - lanfear (name of a Forsaken)
+dawn (n.) - rahien
+Dawn Runners (n.) - Rahien Sorei (Aiel warrior society)
+day (n.) - nag
+dead, the (n.) - ayend
+dear (adj.) - aada
+death (adj.) - mordero
+debt (n.) - potadi
+decision (n.) - watari
+dedicated (n. & adj.) - aiel
+deep (adj.) - nush
+degree (n.) - zarin
+delicate (adj.) - binti
+dependent (adj.) - diband
+derived from (suffix) - dera
+design (n.) - hienisus
+desire (v.) - belo
+desire to have (n.) - be-lal (the Envious, name of a Forsaken)\
+despised (adj.) - tsang
+despised one (n.) - da-tsang (used by Aiel)
+destined (adj.) - maral
+destroyer (n.) - samma
+destroyer of hope (n.) - sammael (name of a Forsaken)
+destruction (n.) - machin
+detail (n.) - platto
+determined (adj.) - cierto
+devastation (n.) - knotai
+development (n.) - kramayage
+devoted one (n.) - ba-asa
+dice (n.) - dovie-andi
+different (adj.) - shitak
+digestion (n.) - taberan
+direction (n.) - topito
+dirty (adj.) - mitris
+discovery (n.) - kaarash
+discussion (n.) - korero
+disease (n.) - spillon
+disgust (n.) - agaroum
+distance (n.) - beratam
+distribution (n.) - nemhage
+division (n.) - uldatein
+do (v. aux.) - ca (used as an intenfier; e.g., -I do come-)
+dog (n.) - shae
+dogs (n.) - shae-en
+Doom Pit (n.) - Shayol Ghul
+door (n.) - obanda
+doubt (n.) - bhuk
+down (adj., adv. & prep.) - moro
+downcast (adj.) - mosiev
+dragon (n.) - aman (capitalized to mean the Dragon)
+drain (v.) - vraak
+drawer (n.) - olghan
+dream (n.) - hou-dabor
+dress (n.) - sleesh
+drink (v.) - probita
+drive (v.) - manive
+driving (n. & adj.) - manivin
+drop (v.) - rumpo
+dry (adj.) - khust
+dust (n.) - yekko
+duty (n.) - toh (used by the Aiel)
+eagle(s) (n.) - aldazar
+ear (n.) - habish
+early (adj.) - spondat
+earth (n.) - zhoub
+east (n., adj. & adv.) - hochin
+edge (n.) - yamar
+education (n.) - sunatien
+effect (n.) - ptash
+egg (n.) - urkros
+eight (adj.) - minyat (material objects); minye (immaterial things)
+eight (adj.) - minyat (material objects); minye (immaterial things)
+elastic (adj.) - zahert
+emotion (n.) - kanjo
+Empress (n.) - Sh-boan (Sharan term)
+Empress- consort (n.) - Sh-botay (Sharan term)
+end (v.) - velu
+enduring (adj.) - cierto
+enemy (n.) - indemela
+engine (n.) - chicaba
+enough (n., adj. & adv.) - purtah
+entity (n.) - so
+Envious, the (n.) - Be-lal (name of a Forsaken; literally, desire to have)
+equal (n., adj. & v.) - perit
+equivalent value (n.) - carentin
+eradication (n.) - bhan
+error (n.) - zyntam
+essence (n.) - balt
+essence of youth (n.) - balthamel (name of a Forsaken)
+even (adj.) - glasti
+event (n.) - whandin
+ever (adv.) - aend
+everyone (n.) - aes
+exaltation (n.) - jhin
+example (n.) - sidhat
+exchange (v.) - feiro
+existence (n.) - humat
+expansion (n.) - pedalen
+experience (n.) - proyago
+expert (n. & adj.) - yalait
+exquisite (adj.) - jheda (name of the royal palace of Ghealdan)
+eye(s) (n.) - seia (becomes sei when used in combined forms)
+Eye Blinders (n.) - Samma N-Sei
+eyes, (of) lowered or downcast (adj.) - sei-mosiev (Seanchan term indicating loss of face or honor)
+eyes, (of) straight or level (adj.) - sei-taer (Seanchan term indicating having or gaining face)
+face (n.) - cheta
+fact (n.) - papp
+fade (v.) - vyen
+falcon (n.) - faile
+Falcon-s Talon, the (n.) - Cha Faile (name taken by Faile-s followers)
+fall (v.) - lendha
+false (adj.) - suzain
+family (n.) - weladhi
+far (adj. & adv.) - totah
+farm (n.) - jemena
+fat (adj.) - boko
+father (n.) - dada
+father(s)/sire(s) (n.) - vol (specific to a male who has used brutal means, i.e., a rapist)
+father of ranges (n.) - dadaranell (from ancient name for Fal Dara)
+favor (v.) - taishite
+fear (n.) - daghain
+feather (n.) - velin
+feeble (adj.) - gubbel
+feeling (n.) - kutya
+fertile (adj.) - whado
+fiction (n.) - istor
+field (n.) - vlagh
+fight (v.) - alget
+fighter (n.) - algai
+final (adj.) - tarmon
+finder (n.) - jeade
+finger (n.) - ungost
+fire (n.) - nabir
+first (n., adj. & adv.) - koyn
+first lover (n.) - carneira (Malkieri)
+fish (n.) - mastri
+five (n. & adj.) - choryat (material objects); chorye (immaterial things)
+five (n. & adj.) - choryat (material objects); chorye (immaterial things)
+fix (v.) - ursta
+fixed (adj.) - urstae
+flag (n.) - laero
+flame (n.) - naito
+Flame and the Void, the (n.) - ko-di (a meditative state)
+flat (adj.) - dzigal
+flight (n.) - vavaya
+floor (n.) - boesin
+flower (n.) - bijoun
+fly (v.) - raf
+fold (v.) - viliso
+folk (n.) - atha-an (nationhood implied)
+food (n.) - werstom
+foolbox (n.) - nar-baha (traveling boxes used by Sammael)
+foolish (adj.) - narfa
+foot/on foot/afoot (n., adj. & adv.) - muad
+footmen (n.) - muad-drin
+for (prep.) - ni
+for the (prep.) - al; an
+for the (prep.) - al; an
+force (n.) - nadula
+forerunners (n.) - hailene (Seanchan term)
+forgiveness (n.) - hessa
+fork (n.) - kashen
+form (n.) - bideli
+forthright (adj.) - taer
+forward (direction) (adv.) - dar; los (n., adj. & adv.)
+forward (direction) (adv.) - dar; los (n., adj. & adv.)
+four (adj.) - otyat (material objects); otye (immaterial things)
+four (adj.) - otyat (material objects); otye (immaterial things)
+fowl (n.) - ayashiel
+frame (n.) - lamena
+free (v.) - ayende
+free man (n.) - caballein
+free(dom) (n. & adj.) - raha
+frequent (adj.) - moodi
+friend (n.) - amela
+from (prep.) - der
+from, derived (suffix) - dera
+front (n. & adj.) - beulin
+full (adj.) - nahobo
+future (n. & adj.) - mamai
+game (n.) - mar
+Game of Houses (n.) - Daes Dae-mar
+garden (n.) - ferster
+general (n.) - kelindun (military rank)
+get (v.) - tana
+girl (n.) - inda
+give (v.) - nolve
+give, you (v.) - ma
+given, is (v.) - nolvae
+glass (n.) - vartan
+glory (n.) - daishar; kiserai
+glory (n.) - daishar; kiserai
+Glory of All (n.) - Aesdaishar (name of palace in Chachin)
+glove (n.) - swabel
+go (v.) - jalou
+goat (n.) - ozela
+gold(en) (n. & adj.) - cair
+gold(en), the (adj.) - al-cair
+Golden Bowl, the (n.) - Al-Cair Dal (canyon in the Aiel Waste)
+Gold(en) Dawn Hill (n.) - Al-Cair-Rhaienallen (ancient name for Cairhien)
+golden eyes (n.) - sei-cair (Aiel title for Perrin)
+good (adj.) - uiwa
+government (n.) - vlafael
+grain (n.) - kazka
+grass (n.) - zurye
+grave (n.) - moridin (name of a Forsaken, the word referring to death)
+gray (adj.) - tezra
+great (adj.) - dae
+Great Game, The (n.) - Daes Dae-mar
+green (n. & adj.) - drosin
+grip (v.) - duente
+group/band/brotherhood (n.) - shen
+growth (n.) - suchan
+grub (n.) - motai (a specific sweet, crunchy grub found in the Aiel Waste)
+guard (prefix) - ashan
+guard (n.) - valdar
+guard (v.) - valon
+guard of the blade (n.) - asha-man
+guard sword (n.) - ashandarei (Birgitte-s name for Mat-s sword)
+guide (n. & v.) - ranzak
+hag (n.) - drova
+hag (possessive) - drovja
+hair (n.) - vokosh
+hair cord (n.) - daori (cut by Malkieri-s carneira and woven into a cord)
+hammer (n.) - marcador
+hand (n.) - har(an)
+Hand of the Dark (n.) - Shaidar Haran (name of an -extreme- Myrddraal)
+hands (n.) - sovin (if unmodified, -hands that are open and empty-)
+hanging (n. & adj.) - wafal
+happy (adj.) - zanzi
+harbor (n.) - calazar
+hard (adj.) - batthien
+harmony (n.) - aris
+Harvesters of Souls (n.) - Ghob-hlin (a Trolloc band)
+hat (n.) - tarbun
+hate (n.) - nirdayn
+have (v.) - lal
+he (pron.) - sin
+he who soars (n.) - mah-alleinir (name of Perrin-s Power-wrought sword)
+head (n.) - tiest
+headband, Malkieri (n.) - hadori
+health (n.) - shuk
+healthy (adj.) - shukri
+hearing (n.) - bhashan
+heart (n.) - balt; corda (as in, the heart of things); cuendar (can also be adj.)
+heart (n.) - balt; corda (as in, the heart of things); cuendar (can also be adj.)
+heart (n.) - balt; corda (as in, the heart of things); cuendar (can also be adj.)
+Heart Guard, the (n.) - Valdar Cuebeyari (Heart refers to the Nation/People/Land)
+heart, my (n.) - cuebiyar (when capitalized, it refers to heart of a nation/people/ruler)
+Heart of the Dark (n.) - Ba-alzamon (another name for the Forsaken Ishamael)
+Heart of the People (n.) - Cordamora (the palace in Maradon)
+heartstone (n.) - cuendillar
+heat (n.) - jalid
+help (v.) - spiat
+herd (n.) - for
+here (n. & adv.) - kodome
+high (adj.) - mund
+hill (n.) - allen
+history (n.) - khalig
+hold (v.) - sul; duente
+hold (v.) - sul; duente
+hole (n.) - ghul
+hollow (adj.) - ghow
+Homecomers (n.) - Rhyagelle (Seanchan term)
+honor (n.) - carai (can be used in the sense of -for the honor-); ji; kiserai
+honor (n. & v.) - tsingu
+honor and obligation (n.) - ji-e-toh (used by Aiel)
+honorable one (n.) - kiseran (Siuan addressed Loial in this manner)
+hook (n.) - zhoh
+hope (n.) - mael
+horn (n.) - purvene
+horror (n.) - dhjin
+horse (n.) - caba
+horse to ride (n.) - caba-donde
+horseman (n.) - caba-drin; caballein
+horseman (n.) - caba-drin; caballein
+hospital (n.) - ospouin
+hour (n.) - baroc
+house (n.) - shaek
+how (adv.) - bak
+humor (n.) - salidien
+hundred (n. & adj.) - deshi (meaning one hundred)
+hundreds (suffix) - deshi (denotes the quantitative place value)
+I (pron.) - ye (sometimes used as an exclamatory fragment)
+ice (n.) - youst
+idea (n.) - prasta
+if (conj.) - sob
+ill (adj.) - bokhen
+important (adj.) - matuet
+impulse (n.) - obram
+in (adv. & prep.) - sa
+increase (v.) - whakatu
+individual (n.) - da (either gender)
+industry (n.) - santhal
+infantry(men) (n.) - muad-drin
+ink (n.) - veel
+inn (n.) - melaz
+insect (n.) - tanilji
+instrument (n.) - tatatoun
+insurance (n.) - straviant
+interest (n.) - dibbuk
+intricate (adj.) - dae
+intricate game (n.) - dae-mar
+invention (n.) - havokiz
+iron (n. & adj.) - shiatar
+is (v.) - ain; ga; isain (a form of -to be-); sain
+is (v.) - ain; ga; isain (a form of -to be-); sain
+is (v.) - ain; ga; isain (a form of -to be-); sain
+is (v.) - ain; ga; isain (a form of -to be-); sain
+is no(t) (v. neg.) - isainde (insistent; emphatic)
+island (n.) - chanukar
+it (pron.) - aso
+it(self) (pron.) - se
+jewel (n.) - keisa
+jewelry (n.) - kesiera (worn on forehead, as did Moiraine); ki-sain (Malkieri woman-s forehead adornment)
+jewelry (n.) - kesiera (worn on forehead, as did Moiraine); ki-sain (Malkieri woman-s forehead adornment)
+join (v.) - heatsu
+journey (n.) - shin
+Journey of Destruction (n.) - Machin Shin (aka Black Wind)
+judge (n. & v.) - vodish
+jump (v.) - shao
+keep (v.) - tyaku
+kennel (n.) - rainn
+kettle (n.) - jalbouk
+key (n.) - allwair
+kick (v.) - kathana
+kind (adj.) - yappa
+kiss (n. & v.) - brith
+kitchen (n.) - rensal
+knee (n.) - shost
+knife (n.) - nai
+Knife Hands (n.) - Sovin Nai (Aiel warrior society)
+knot (n. & v.) - buido
+knowledge (n.) - sanasant
+lacking (prep.) - mera
+land (n.) - dhol
+land, a (n.) - rhiod
+land of harmony (n.) - aridhol (a city of the Second Convenant)
+language (n.) - domorakoshi
+last (n. & adj.) - cyn; tarmon (adj.)
+last (n. & adj.) - cyn; tarmon (adj.)
+last chance (n.) - cyndane (name given to reincarnated Lanfear)
+late (adj. & adv.) - unyat
+laugh (v.) - kuthli
+law (n.) - vidhel
+lead (v.) - hael
+leader (n.) - m-hael (if capitalized, implies -Supreme Leader-, per Taim)
+Leader of the Attack (n.) - Baijan-m-hael
+learning (n.) - koanto
+leash (n.) - a-dam (used by Seanchan); dam
+leash holder (n.) - sul-dam (Seanchan term)
+leashed (n.) - damane (used by Seanchan to mean leashed one)
+leather (n.) - parikesh
+left-hand or left-side (adj.) - osan
+left-hand dagger (n.) - osan-gar (name of a Forsaken)
+leg (n.) - uvaal
+lessons (n.) - mestani
+lessons, teacher of (n.) - mesaana (name of a Forsaken)
+let (v.) - youna
+lethal weapon (n.) - gar
+letter (n.) - brett
+level (adj.) - taer
+library (n.) - sa-blagh
+lies (n.) - ansoen
+life (n.) - sora
+lift (v.) - padgi
+light (n.) - dival
+like (v. & adv.) - sene
+limit (n.) - ghleb
+line (n.) - pinikar
+linen (n. & adj.) - shaval
+lip (n.) - kadu
+liquid (adj.) - budhvai
+list (n.) - kikola
+little (adj.) - min
+living (n. & adj.) - airach
+living organism (n.) - agit
+lizard (n.) - gara (a specific, poisonous creature from Aiel Waste)
+lock (n.) - clomak
+long (adj) - laada
+look (v.) - gouql
+loose (adj.) - woudem
+lord (n.) - shan
+Lord of Glory (n.) - Tai-daishar (literally, True Glory or True Blood of Battle; name of Rand-s horse)
+loss (n.) - thorain
+lost (adj.) - niende
+loud (adj.) - mad
+loud noise (n.) - sha-mad (thunder)
+love (n. & v.) - mashi
+love, my (n.) - mashiara (a hopeless love, maybe already lost)
+lover, first (n.) - carneira (Malkieri)
+low (adj.) - mosai
+lower (adj.) - szere
+lower (v.) - mosiel
+lowered (adj.) - mosiev
+luck (n.) - dovienya
+lucky (adj.) - dovie (or, related to luck)
+machine (n.) - worshi
+made, is (v.) - gemarisae
+maiden(s) (n.) - mai
+Maidens of the Spear (n.) - Far Dareis Mai (an Aiel warrior society)
+maize (n.) - zemai (from Aiel Waste)
+majesty (n.) - deyeniye
+make (v.) - gemarise; tasu
+make (v.) - gemarise; tasu
+man (n.) - allein; drin (sing. & plur.); sin
+man (n.) - allein; drin (sing. & plur.); sin
+man (n.) - allein; drin (sing. & plur.); sin
+manage (v.) - rabat
+manure (n.) - choss (excrement hauled away on farms)
+many (adj. suffix) - es
+many people (n.) - daes
+map (n.) - procol
+mark (n.) - rouyte
+market (n.) - zladtar
+married (adj.) - cassort
+mass (v.) - pentor
+master (n. prefix) - der (Seanchan prefix to denote master of some craft)
+match (v.) - wanda
+material (n.) - loftan
+may (v.) - punia
+me (pron.) - mia; no
+me (pron.) - mia; no
+Me, One Who Owns (n.) - Mia-cova (term used by Moghedien, after the mindtrap)
+meal (n.) - witapa
+measure (n. & v.) - gheym
+meat (n.) - muaghde
+medical (adj.) - restar
+meeting (n.) - lashite
+memory/memories (n.) - loviyaga/loviyagae
+memory/memories (n.) - loviyaga/loviyagae
+metal (n.) - caledon
+middle (n. & adj.) - mist
+mighty, the (n.) - ghraem
+military (n. & adj.) - lennito
+milk (n.) - mokol
+mind (n.) - souvra
+mind, my own (comb.) - souvraya
+mindtrap (n.) - cour-souvra (used on the Forsaken)
+mine (poss. pron.) - raya
+minute (n.) - glimp
+mist (n.) - neb
+mixed (adj.) - komad
+mobility, indication of (prep.) - far
+money (n.) - dhalen
+monkey (n.) - lindhi
+month (n.) - nakhino
+moon (n.) - bumma
+morning (n.) - morasu
+mother (n.) - mamu
+motion (n.) - lakevan
+mountain(s) (n. & adj.) - dore
+mountains, of/from the (adj.) - n-dore
+Mountain Dancers (n.) - Hama N-dore (Aiel warrior society)
+Mountain Home (n.) - Manetheren (one of the Ten Nations)
+mountain range(s) (n.) - ranell
+mouth (n.) - mafal
+move (v.) - vakar
+much (adj. & adv.) - plean
+muscle (n.) - hathi
+mushroom(s) (n.) - mourets
+music (n.) - asmodi
+musician (n.) - asmodean (name of a Forsaken)
+my (poss. pron.) - mi
+my own (poss. pron.) - raya
+My Owner (n.) - Mia-cova (Moghedien, after the mindtrap)
+myself (pron.) - mia
+nail (n.) - hakhel
+name (n. & v.) - yalu
+narrow (adj.) - zengar
+natural (adj.) - dyani
+near (adj., adv. & prep.) - ragha
+necessary (adj.) - maast
+necessity (n.) - mestrak
+neck (n.) - liede
+need (n.) - zeltain
+needle, type of (n.) - conje (mentioned by Sammael)
+nephew (n.) - finin
+nerve (n.) - wagg
+net (n.) - upendar
+never (adv.) - sind
+new (adj.) - neidu
+news (n.) - canant
+niece (n.) - qinar
+night (n.) - anfear; cor; fear
+night (n.) - anfear; cor; fear
+night (n.) - anfear; cor; fear
+Night Spears (n.) - Cor Darei (Aiel warrior society)
+nine (n. & adj.) - navyat (material objects); navye (immaterial things)
+nine (n. & adj.) - navyat (material objects); navye (immaterial things)
+no (n. & adv.) - inde (a general negation)
+noise (n.) - sha
+none (pron.) - pas
+normal (adj.) - gidhi
+north (n., adj. & adv.) - torreale
+nose (n.) - nothru
+not (n. & adv.) - inde (a general negation)
+note (n.) - dahid
+now (n. & adv.) - waji
+number (n.) - punta
+nut (n.) - doti
+oath (n.) - gurupat
+obligation (n.) - toh (used by the Aiel)
+obscenity, an (adj.) - kjasic (spoken by Sammael)
+observation (n.) - lahdin
+obstinate (adj.) - seren
+ocean (n.) - miere
+of (prep.) - a; an; d (implied ownership or inferior position); far
+of (prep.) - a; an; d (implied ownership or inferior position); far
+of (prep.) - a; an; d (implied ownership or inferior position); far
+of (prep.) - a; an; d (implied ownership or inferior position); far
+of the (prep.) - al; an
+of the (prep.) - al; an
+of the fallen/dead (prep.) - ayend-an
+of the power to channel (n.) - angreal (device that enhances the power to channel)
+of the power to channel (limited or specific application) (n.) - ter-angreal
+of the power to channel (superlative) (n.) - sa-angreal
+off (prep.) - wek
+offer (v.) - homa
+office (n.) - mystvo
+oil (n.) - hoba
+old (adj.) - caisen
+on (prep.) - ost
+one (n. & adj.) - aan (masc.); da (either gender)
+one (n. & adj.) - aan (masc.); da (either gender)
+one (numerical adj.) - koyat (material objects); koye (immaterial things)
+one (numerical adj.) - koyat (material objects); koye (immaterial things)
+One Man (n.) - Aan-allein (Aiel term for Lan)
+one who must be leashed (n.) - marath-damane (Seanchan word)
+One Who Owns Me (n.) - Mia-cova (used by Moghedien, after the mindtrap)
+one who twists a blade (n.) - demandred (name of a Forsaken)
+Oneness, the (n.) - ko-di (a meditative state)
+only (adj. & adv.) - noup
+only true (adj. & adv.) - jenn (implying the others are fake)
+open (adj.) - ortu
+operation (n.) - paathala
+opinion (n.) - haar
+opposite (n., adj. & prep.) - vyropat
+or (conj.) - ob
+order (n.) - kasaar
+organization (n.) - vyashak
+ornament (n.) - casgard
+our (poss. pron.) - fel
+out (adv. & prep.) - keesh
+oven (n.) - roban
+over (prep.) - do
+owned (n. & adj.) - covale (Seanchan term for slave)
+owner (n.) - cova
+page (n.) - leagh
+paid, is (past part.) - dalae
+pain (n.) - mirhage (or the promise or expectation of pain)
+pain, the promise or embodiment of (n.) - semirhage (name of a Forsaken)
+paint (v.) - mahrba
+pants (n.) - olesti
+paper (n.) - pepa
+parallel (adj.) - naparet
+parcel (n.) - zemliat
+part (n.) - hafi
+pass (v.) - allende (as passing through or by, not handing something over)
+pass (n.) - mafal
+Pass At the Father of Mountain Ranges (n.) - Mafal Dadaranell (ancient name of Fal Dara)
+past (n. & adj.) - culieb
+paste (n.) - hasta
+Pattern, those who alter or are tied to (n.) - ta-veren (those who cause the fabric of the Pattern to bend around them)
+Pattern-related (n.) - ta
+pay (v.) - dale
+payment (n.) - peast
+peace (n.) - shain; suravye
+peace (n.) - shain; suravye
+peach (n.) - pierskoe
+pen (n.) - perol
+pencil (n.) - olivem
+people (n.) - atha-an (nationhood implied)
+people, the (n.) - mora
+People Dedicated to Peace (n.) - Da-shain (an Aiel term)
+People of the Ocean or Waves (n.) - Atha-an Miere (Sea Folk)
+People of the Shadow (n.) - Atha-an Shadar (Darkfriend)
+person (n.) - atha; da (either gender)
+person (n.) - atha; da (either gender)
+physical (adj.) - yaati
+picture (n.) - dabor
+piece, a small (n.) - rhub
+pig (n.) - orcel
+pig, tusked water (n.) - nedar (type of pig found in the Drowned Lands)
+pin (n.) - killo
+pipe (n.) - zalabadh
+pit (n.) - ghul
+place (n.) - fonnai
+place of waiting (n.) - logoth
+plane (n.) - undacar
+plant (n.) - gobhat
+plate (n.) - tippat
+play (v.) - buggel
+please (v.) - graedo
+pleasure (n.) - graen
+plow (n. & v.) - orichu
+pocket (n.) - viboin
+point (n.) - tunga
+poison (n.) - zintabar
+polish (v.) - evierto
+political (adj.) - dekhar
+poor (n. & adj.) - olma
+population, a (n.) - mora
+porter (n.) - wahati
+position (n.) - obiyar
+possible (adj.) - mozhlit
+pot (n.) - wixi
+potato (n.) - patomi
+powder (n.) - zipan
+power to channel, the (n.) - greal
+Power, the (female side) (n.) - saidar
+Power, the (male side) (n.) - saidin
+prepare (insistent) (v.) - rhadiem
+present (n. & adj.) - platip
+price (n.) - ciyat
+print (v.) - orvieda
+prison (n.) - nayabo
+private (adj.) - mukhrat
+prized (adj.) - lan
+Prized of the Mighty (n.) - Ghraem-lan (a Trolloc band)
+probable (adj.) - tebout
+process (n.) - prashat
+produce (n.) - nodavat
+profit (v.) - gashi
+promise (n.) - o-vin; vin
+promise (n.) - o-vin; vin
+promise of freedom (n.) - rahvin (name of a Forsaken)
+property (n. & adj.) - covale (Seanchan term for slave)
+prose (n.) - chatkar
+protest (v.) - pastien
+pull (v.) - tirast
+pump (v.) - harvo
+punishment (n.) - karagaeth
+purpose (n.) - ghani
+push (v.) - druna
+put (v.) - komo
+quality (n.) - shaani
+quarrymen, a country with (n.) - s-Gandin (a place from Age of Legends mentioned by Brigitte)
+question (v.) - feist
+quick (adj.) - kakamo
+quiet (adj.) - bebak
+quite (adv.) - koult
+radiance (n.) - sidama
+rail (n.) - griest
+rain (n. & v.) - ombrede
+rat (n.) - soetam (large species found in the Drowned Lands); sorda (species found in the Aiel Waste)
+rate (n.) - chegham
+ray (n.) - varma
+reaction (n.) - mawaith
+reading (n.) - jaahni
+ready (adj.) - tashi
+reason (n.) - taskel
+receipt (n.) - velach
+record (n.) - tefara
+red (n. & adj.) - cal; dor
+red (n. & adj.) - cal; dor
+red eagle (n.) - al caldazar; caldazar
+red eagle (n.) - al caldazar; caldazar
+red hand (n.) - calhar
+Red Shields (n.) - Aethan Dor (an Aiel warrior society)
+regret (n. & v.) - whudra
+regular (adj.) - pravilam
+relation (n.) - rodinat
+release (v.) - ayende
+representative (n.) - xurzan
+request (v.) - saizo
+resolute (adj.) - cierto
+respect (n.) - tyagani
+responsible (adj.) - hodifo
+rest (v.) - yasipa
+Return, The (n.) - Corenne (Seanchan concept)
+reward (n.) - labani
+rhythm (n.) - bodong
+rice (n.) - rhaul
+ride (v.) - donde (or, riding-related)
+right-hand or right-side (adj.) - aran
+right-hand dagger (n.) - aran-gar (name of a reborn Forsaken)
+ring (n.) - onguli
+road (n.) - rastra
+rod (n.) - kelet
+roll (v.) - tovya
+roof (n.) - chelan
+room (n.) - zemya
+root (n.) - balt
+rose (n.) - ande
+Rose of the Sun, the (n.) - Ellisande (what the last queen of Manetheren, Eldrene, was called)
+rough (adj.) - xazzi
+round (adj.) - rulli
+rub (v.) - terta
+ruin (n.) - knotai
+rule (n. & v.) - vastri
+run (v.) - sorbe
+runner(s) (n.) - sorei
+sad (adj.) - fada
+safe (adj.) - tumasen
+sail (v.) - fakha
+salt (n.) - zela
+same (pron., adj. & adv.) - qaiset
+sand (n.) - xentro
+say (v.) - kazath
+scale (n.) - cloriol
+school (n.) - arkati
+science (n.) - nachna
+scissors (n.) - pashren
+screw (v.) - bhoot
+scythe, related to (adj.) - mon
+Scythes of Devastation (n.) - Kno-mon (a Trolloc band)
+Scythes of War (n.) - Dhai-mon (a Trolloc band)
+seat (n.) - banta
+second (n. & adj.) - dvoyn
+secret (n. & adj.) - tongel
+secretary (n.) - odik
+see (v.) - darshi
+seed (n.) - vetan
+seeker/seekers (n.) - mahdi/ mahdi-in (used for leader of Tuatha-an caravan)
+seeker/seekers (n.) - mahdi/ mahdi-in (used for leader of Tuatha-an caravan)
+seeking man of the stars (n.) - mah-alleinir (literal translation; name of Perrin-s Power-wrought hammer)
+seem (v.) - umeil
+selection (n.) - tipakati
+self (n. & adj.) - baid
+send (v.) - heinst
+sense (n.) - vaakaja
+separate (adj.) - roscher
+serious (adj.) - darm
+servant(s) (n.) - sedai
+Servants of All (n.) - Aes Sedai
+seven (adj.) - sukyat (material objects); sukye (immaterial things)
+seven (adj.) - sukyat (material objects); sukye (immaterial things)
+sex (n.) - sterpan
+shade (n.) - dhamel
+shadow (n.) - shadar
+Shadow, Cutter (or Slicer) of the Shadow (n.) - Shadar Nor (name given to Latra Posae)
+Shadow-s Waiting/Where the Shadow Waits (n.) - Shadar Logoth (name of the city Aridhol that became tainted with evil)
+shake (v.) - raqit
+shame (n.) - mikra
+sharp (adj.) - xelt
+she (pron.) - sar
+she/the woman who is dedicated (n.) - shaiel (Tigraine-s Aiel name)
+sheep (n.) - varkol
+shelf (n.) - polov
+shield(s) (n.) - aethan
+ship (n.) - wakaput
+shirt (n.) - galamok
+shock (n.) - vream
+shoe (n.) - kesool
+short (adj.) - toopan
+shut (v. & adj.) - chukhar
+sick (adj.) - bokhen
+side (n.) - xeust
+sign (n.) - wishti
+silk (n.) - qamir
+silver (n. & adj.) - torian
+simple (adj.) - wadlian
+Sires of Agony (n.) - Dha-vol (a Trolloc band)
+sister (n.) - dar
+six (adj.) - panyat (material objects); panye (immaterial things)
+six (adj.) - panyat (material objects); panye (immaterial things)
+size (n.) - katien
+skin (n.) - timari
+skinny (adj.) - poldar
+skirt (n.) - caili
+sky (n.) - oghri
+slave (n.) - da-covale (Seanchan term; preferred form is covale, for property)
+sleep (v.) - houma
+slicer (n.) - nor
+slicer of the living (n.) - aginor (a Forsaken)
+slip (v.) - uttat
+slope (n.) - ronagh
+slow (adj.) - balad
+small (adj.) - chinti
+smash (v.) - uglat
+smell (v.) - nais
+smile (n. & v.) - attik
+smoke (n. & v.) - ghuni
+smooth (adj.) - heesh
+snake (n.) - nagaru
+snake, type of (n.) - coreer (from Age of Legends)
+sneeze (v.) - chitzi
+snow (n. & v.) - yazpa
+so (adv. & conj.) - moro
+soap (n.) - svayor
+society (n.) - panjami
+sock (n.) - mustiel
+soft (adj.) - zaleen
+soil (n.) - feros
+soldier(s) (n.) - drin
+solid (adj.) - garan
+some (pron. & adj.) - odi
+son (n.) - alep
+song (n.) - dena
+sort (v.) - vidnu
+soul, the (n.) - ghoba
+Soulless (n.) - Al-ghol (name of Trolloc band); gholam (a Shadowspawn)
+Soulless (n.) - Al-ghol (name of Trolloc band); gholam (a Shadowspawn)
+sound (v.) - diy
+sounder (n.) - diynen (one who produces a sound)
+soup (n.) - chanda
+south (n., adj. & adv.) - djanzei
+sovereign (n. & adj.) - tan
+space (n.) - hirato
+spade (n.) - obidum
+spawn (n.) - bajad
+speak (v.) - nosane
+speaker (n.) - feia
+Speaker of the Truth (Seanchan) (n.) - Soe-feia
+spear (n.) - dareis (Aiel); plural is darei
+spear (n.) - dareis (Aiel); plural is darei
+spear fighters (n.) - algai-d-siswai (an Aiel term)
+spear(s) of the dragon (n.) - siswai-aman (term used by the Aiel)
+special (adj.) - bolar
+spider (n.) - moghedien (a particular breed: small and poisonous; name of a Forsaken)
+sponge (n.) - otiel
+spoon (n.) - wastin
+spring (n.) - vesna
+square (n. & adj.) - ploushin
+stage (n.) - leffal
+stamp (n.) - tamu
+star(s) (n.) - onir
+start (v.) - pochivat
+statement (n.) - furthadin
+station (v.) - vaeku
+steady (adj.) - taer
+steel (n. & adj.) - kesan
+stem (n.) - stobur
+step (v.) - nieya
+sticky (adj.) - baichan
+stiff (adj.) - tolin
+still (adj.) - bift
+stitch (n.) - zinik
+stocking (n.) - pinchota
+stomach (n.) - bloobh
+stone (n.) - andillar; suffix form is -dillar; taal (n. & adj.)
+stone, of (adj.) - m-taal
+Stone Dogs (n.) - Shae-en M-taal (Aiel warrior society)
+stop (v.) - desta
+store (n.) - kramtor
+storm (n.) - tsorovan (sometimes meaning a smaller storm)
+storm, winter (n.) - cemaros (specifically, a tempest from Sea of Storms)
+Storm Leader (n.) - Tsorovan-m-hael (what the Asha-man Gedwyn called himself)
+story (n.) - yatanel
+strange (adj.) - choutsin
+steam (n.) - smoog
+street (n.) - ravad
+stretch (v.) - gruget
+strive (n., v. & adj.) - dai
+stones (n.) - no-ri (modern name of ancient game from Moridin POV)
+straight/straightforward (adj.) - taer
+strong (adj.) - frait
+Strong Wind (n.) - Ahf-frait (a Trolloc band)
+structure (n.) - houghan
+struggle (n., v. & adj.) - dai
+stubborn (adj.) - seren
+stubborn daughter (n.) - serenla (name that Siuan gave to Min)
+stubborn one (n.) - serenda (also name of the Amadician king-s palace)
+substance (n.) - sulwed
+such (adj.) - prato
+sudden (adj.) - rabdo
+sugar (n.) - medan
+suggestion (n.) - breudon
+summer (n.) - laido
+summons (n.) - concion
+sun (n.) - ellis
+support (n.) - chenal
+surprise (n.) - ubriva
+swallow (n.) - akein (bird)
+swear (v.) - begrat
+sweat tent scraping stick (n.) - staera (made of copper, used by Aiel)
+sweet (adj.) - chalin
+sweet girl (n.) - chalinda (Old Tongue name give to Min by Siuan)
+swim (v.) - marna
+sword (n.) - manshima
+sword, my own (n.) - manshimaya
+sword, related to (adj.) - man
+Sword that is not a Sword, The (n.) - Callandor
+sworn (adj.) - begratanae
+system (n.) - trefon
+table (n.) - ramay
+tail (n.) - kovist
+take (v.) - harben
+Taker of Souls (n.) - Gho-hlem (a Trolloc band)
+talk (v.) - bolga
+tall (adj.) - aird
+talon (n.) - cha
+taste (n.) - spashoi
+tax (n.) - kaarto
+teacher (n.) - saana
+teacher of lessons (n.) - mesaana (name of a Forsaken)
+teaching (n.) - saantar
+tempest (n.) - cemaros (specifically, a winter storm from Sea of Storms)
+ten (adj.) - desyat (material objects); desye (immaterial things)
+ten (adj.) - desyat (material objects); desye (immaterial things)
+tendency (n.) - pranent
+terror (n.) - dhjin
+test (v.) - profel
+than (conj.) - yak
+that (pron. & adj.) - wot
+themselves (pron.) - se
+then (n. & adv.) - patra
+theory (n.) - dantor
+there (n. & adv.) - koja
+thick (adj.) - doorn
+thin (adj.) - simp
+thing (n.) - so
+this (pron., adj. & adv.) - iqet
+those who cause change or are tied to change (n.) - veren
+Those Who Cause Terror (n.) - Dhjin-nen (a Trolloc band)
+Those Who Come Before (n.) - Hailene (Seanchan term)
+Those Who Come Home (n.) - Rhyagelle (Seanchan term)
+those who exemplify something (n.) - sheen
+those who must be leashed (n.) - marath-damane (Seanchan word)
+though (conj.) - zazit
+thought (n.) - nardes
+thousand, one (adj.) - tuhat
+thousands (suffix) - tuhat (as in, tre-tuhat, meaning 3,000)
+thousands (suffix) - tuhat (as in, tre-tuhat, meaning 3,000)
+thread (n.) - gadhat
+three (adj.) - treyat (material objects); treye (immaterial things)
+three (adj.) - treyat (material objects); treye (immaterial things)
+throat (n.) - pyast
+through/through this or it (prep.) - nesodhin
+thumb (n.) - ibalets
+thunder (n.) - sha-mad
+Thunder Walkers (n.) - Sha-mad Conde (Aiel warrior society)
+thus (adv.) - ghiro
+ticket (n.) - kippat
+tight (adj.) - kritam
+till (v.) - hosiya
+time (n.) - sag
+time, it is (n.) - sagain
+tin (n.) - olcam
+tired (adj.) - claddin
+title, a (n.) - Nae-blis (Shaitan-s first lieutenant)
+to (prep.) - ti
+to/to the (prep.) - tia
+toe (n.) - ocarn
+together (adv.) - perant
+tomato (n.) - t-mat (from the Aiel Waste)
+tomb (n.) - moridin (name of a Forsaken, the word referring to death)
+tomorrow (n. & adv.) - welakai
+tongue (n.) - diutic
+tooth (n.) - jabro
+top (n. & adj.) - otou
+touch (v.) - torkat
+tower (n.) - tar
+tower of man (n.) - tarasin (name of palace in Ebou Dar)
+Tower that Guards (n.) - Tar Valon
+town (n.) - lagien
+trade (n.) - masnad
+train (n.) - cantheal
+transparent (adj.) - telio
+transport (v.) - ethaantar
+trap (n.) - cour
+traveler (n.) - tuatha (one going from one place to another; can be a vagabond)
+traveling box(es) (n.) - nar-baha (foolbox(es) used by Sammael)
+Traveling People, the (n.) - Tuatha-an
+tray (n.) - usont
+treaty (n.) - dae-vin
+tree(s) (n.) - avende
+Tree of Life (n.) - Avendesora; Avendoraldera is an offshoot found outside the Waste
+Tree of Life (n.) - Avendesora; Avendoraldera is an offshoot found outside the Waste
+treebrother (n.) - t-ingshen (compound word used in addressing Ogier, meaning -to you-representing something most important (i.e., the tree)-in brotherhood-)
+trick (v.) - risor
+trouble (n.) - lishno
+trousers (n.) - theini
+true (adj. & adv.) - jenn; tai (adj.; plural is -tain-)
+true (adj. & adv.) - jenn; tai (adj.; plural is -tain-)
+true (adj. & adv.) - jenn; tai (adj.; plural is -tain-)
+true blood (n.) - tai-shar (part of a greeting of honor used by the Borderlanders)
+True Bloods (n.) - Tain Shari (Aiel warrior society)
+true finder (n.) - jeade-en (Jain Farstrider-s and Rand-s horse)
+truly (adj. & adv.) - jenn
+truth (n.) - imsoen; soe
+truth (n.) - imsoen; soe
+Truth Speaker (Seanchan) (n.) - Soe-feia
+turn (v.) - drenni
+twist (v.) - dred; pakita
+twist (v.) - dred; pakita
+two (adj.) - dvoyat (material objects); dvoye (immaterial things)
+two (adj.) - dvoyat (material objects); dvoye (immaterial things)
+ultimate (adj.) - tarmon
+uncle, little (n.) - magami (Amalisa-s private name for King Easar)
+under (prep., adj. & adv.) - basho
+unit (n.) - kozat
+Unseen World, the (n.) - Tel-aran-rhiod (term used by Aes Sedai)
+up (adj., adv. & prep.) - pad
+use (v.) - gorista
+veil, dust (n.) - shoufa (used by Aiel)
+venom (n.) - ghar
+verse (n.) - fenter
+very (adv.) - maani
+vessel (n.) - dal
+vessel of pleasure (n.) - graendal (name of a Forsaken)
+view (n.) - obrafad
+violent (adj.) - chekrut
+voice (n.) - tati
+void, the (n.) - ko-di (a meditative state)
+walk (v.) - conden
+walker(s) (n.) - conde
+wall (n.) - tinto
+war-related (adj.) - dhai
+warm(s) (v.) - domashita
+wash (v.) - panati
+waste (n.) - difrol
+watch (v.) - vronne
+watcher(s) (n.) - a-vron; vron
+watcher(s) (n.) - a-vron; vron
+watchers of importance (n.) - ma-vron
+Watchers over the Waves (n.) - Do Miere A-vron
+water (n.) - duadhe
+Water Seekers (n.) - Duadhe Mahdi-in (an Aiel warrior society)
+waters of the mountain home (n.) - manetherendrelle
+waves (n.) - miere
+wax (n.) - ikaat
+way (n.) - veshan
+we (pron.) - iro
+weak (adj.) - komalin
+weather (n.) - odashi
+web of destiny (n.) - ta-maral-ailen (Ogier term describing the ta-veren phenomenon)
+week (n.) - hoptah
+weight (n.) - runyat
+welcome (interjection) - calichniye
+well (n.) - afwadh
+west (n., adj. & adv.) - koudam
+westwind (n.) - aldieb (the wind that brings spring rains)
+wet (adj.) - zoppen
+what (pron., adj. & adv.) - gavane
+what was asked (rel. pron.) - devoriska
+wheel (n.) - makitai
+when (adv. & conj.) - qen
+where (pron. & adv.) - doko
+while (n. & conj.) - vaesht
+whip (n. & v.) - remath
+whip, energy (n.) - rema-kar (Age of Legends weapon)
+whistle (n.) - pistit
+whistle (v.) - pistita
+white (n. & adj.) - safar
+who (pron.) - nak
+why (adv.) - neisen
+wide (adj.) - hawali
+will (n.) - zavilat
+wind, as an air current (n.) - ahf; dieb
+wind, as an air current (n.) - ahf; dieb
+window (n.) - ovage
+wine (n.) - ounadh
+wing (n.) - stripo
+winter (n.) - chiema
+wire (n.) - gwiltor
+wise (adj.) - washdor
+with (prep.) - vid
+without (prep.) - mera
+without forgiveness (n. & adj.) - hessalam (name of a Forsaken)
+wolf (n.) - vovok
+woman (n.) - shai
+woman, old (n.) - drova; possessive is drovja
+woman, old (n.) - drova; possessive is drovja
+wood (n.) - lavakh
+wool (n.) - izaad
+word (n.) - palatu
+work(ing) (n. & adj.) - sor
+working clothes (n.) - cadin-sor (worn by Aiel)
+world, a (n.) - rhiod
+World of Dreams (n.) - Tel-aran-rhiod (term used by Aes Sedai)
+worm (n.) - juma
+wormwood (n.) - ordeith (name taken by Padan Fain while with the Whitecloaks)
+worth (n.) - carentin
+wound (n.) - hanol
+write (v.) - lorme
+writing (n.) - vyavi
+written, is (v.) - lormae
+wrong (n., v. & adj.) - nasai
+year (n.) - khamu
+yellow (adj.) - zafar
+yes (adv.) - taak
+yesterday (n. & adv.) - betakai
+you (pron. & n.) - asa
+you give (v.) - ma
+young/youth-related (adj.) - thamel
+your (poss. pron.) - ninte (formal); ninto (informal)
+your (poss. pron.) - ninte (formal); ninto (informal)
+your heart (n.) - ba-asa
