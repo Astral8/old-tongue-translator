@@ -1,6 +1,13 @@
-# from bs4 import BeautifulSoup
-# from urllib.request import Request, urlopen
-#
+"""
+Scraper for Old Tongue Dictionary.
+Grabbed text from Tor and pushed into dictionary.txt
+Then the txt file was then cleaned up manually for minor errors
+They were then turned into a dictionary.
+"""
+
+from bs4 import BeautifulSoup
+from urllib.request import Request, urlopen
+
 # url = "https://www.tor.com/2016/12/20/the-wheel-of-time-english-to-old-tongue-dictionary/"
 # hdr = {'User-Agent': 'Mozilla/5.0'}
 # req = Request(url,headers=hdr)
@@ -25,8 +32,5 @@ for line in lines:
     old_tongue_word = line.split("- ", 1)[1]
     dictionary[english_word] = {}
     dictionary[english_word][speech] = [old_tongue_word]
-    # print("english word is", english_word)
-    # print("old tongue word is", old_tongue_word)
-    # print(speech)
 
 print(dictionary)
